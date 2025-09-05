@@ -1,4 +1,5 @@
 🏦 Banking Analytics Project Report
+
 📌 Problem Statement:-
 
 The bank was struggling to fully understand customer behavior and product utilization across its portfolio of 3,000+ clients. 
